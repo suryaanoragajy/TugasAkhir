@@ -32,6 +32,7 @@
 \usepackage[absolute,overlay]{textpos}
 % List
 \usepackage[shortlabels]{enumitem}
+\setlist[enumerate]{itemsep=-5pt}
 % Tabel
 \usepackage{longtable}
 \usepackage{multirow}
@@ -42,11 +43,27 @@
 % lines of space
 \usepackage{needspace}
 % Formatting chapter & section
+\usepackage{textcase}
 \usepackage{titlesec}
+\titleformat{\chapter}
+  {\normalfont\Large\bfseries\centering\MakeUppercase}
+  {\MakeUppercase{\chaptertitlename}\ \thechapter}{10pt}{\Large}
+
+\titlespacing*{\chapter}{30mm}{-5pt}{5mm}
+\titlespacing{\section}{0pt}{\baselineskip}{0.2\baselineskip}
+
+\setlength{\parindent}{0.5cm} % set the indent for each paragraph
+\setlength{\parskip}{5pt} % remove the additional vertical space between paragraphs
+
 % Hyperref
 \usepackage[pdfborder={0 0 0}]{hyperref}
 % Spacing paragraph
 \usepackage{parskip}
+\titleformat{\section}[hang]{\normalfont\bfseries}{\hspace{0pt}\thesection}{5pt}{\hspace{5pt}\large}[\vspace{0.5ex}]
+
+\titleformat{\subsection}[hang]{\normalfont\bfseries}{\hspace{0pt}\thesubsection}{5pt}{\hspace{5pt}\large}[\vspace{0.5ex}]
+
+
 % Nomor Halaman
 \usepackage{fancyhdr}
 \pagestyle{fancy}
@@ -71,6 +88,22 @@
 \input{Abstrak/abstrak.tex}
 \input{Abstrak/abstrak_en.tex}
 \input{Lainnya/katapengantar.tex}
+\thispagestyle{empty}
 
+\pagenumbering{roman}
+\singlespacing
+\renewcommand*\contentsname{\hfill DAFTAR ISI \hfill}
+\tableofcontents\addcontentsline{toc}{chapter}{DAFTAR ISI}
+
+\clearpage
+\pagenumbering{arabic}
+\singlespacing
+
+%\include{Contents/1-Pendahuluan.tex}
+%\include{Contents/2-TinjauanPustaka.tex}
+%\include{Contents/3-Metodologi.tex}
+%\include{Contents/4-Analisa Data dan Pembahasan.tex}
+%\include{Contents/5-Kesimpulan.tex}
+%\include{Contents/6-DaftarPustaka.tex}
 
 \end{document}
