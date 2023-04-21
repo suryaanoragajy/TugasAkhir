@@ -1,0 +1,53 @@
+% Cover
+\newpage
+\thispagestyle{empty}
+
+% Background
+\begin{tikzpicture}[remember picture,overlay]
+    \fill[biru](current page.north west) rectangle ([yshift=-297mm]current page.north east);
+    \fill[white] (current page.north west) rectangle ([yshift=-45mm]current page.north east);
+\end{tikzpicture}
+
+% Logo ITS
+\begin{tikzpicture}[remember picture, overlay]
+    \node[anchor=south west, inner sep=0] at (-1,0.1) {\includegraphics[width=4cm]{Figs/Logo ITS.png}};
+\end{tikzpicture}
+
+\setlength{\parindent}{0pt}
+\vspace{10ex}
+{\fontspec{Trebuchet MS Bold}{
+  \fontsize{14pt}{14pt}\selectfont \textcolor{white}{TUGAS AKHIR - SF4801}}
+  }
+
+\vspace{12ex}
+
+\doublespacing
+\begin{large}
+  {\fontspec{Trebuchet MS Bold}{
+  \fontsize{18pt}{16pt}\selectfont \textcolor{white}{Pemetaan Sebaran dan Pemodelan Bawah Permukaan Potensi Panas Bumi Berdasarkan Data Landsat 8 dan Metode Gravitasi}}
+  }
+\end{large}
+
+\vspace{15ex}
+
+{\fontsize{14pt}{14pt}\textcolor{white}{\fontspec{Trebuchet MS Bold}Surya Anoraga Justitia Yusman}\\
+\fontsize{14pt}{14pt}\textcolor{white}{\fontspec{Trebuchet MS}NRP 01111940000019}
+}
+
+\vspace{10ex}
+
+{\fontsize{14pt}{14pt}\textcolor{white}{\fontspec{Trebuchet MS}Dosen Pembimbing}\\
+\fontsize{14pt}{14pt}\textcolor{white}{\fontspec{Trebuchet MS Bold}Dr.rer.nat. Eko Minarto}\\
+\fontsize{14pt}{14pt}\textcolor{white}{\fontspec{Trebuchet MS}NIP 19750205 199903 1 004}
+}
+
+\vspace{15ex}
+
+\onehalfspacing
+{\fontsize{12pt}{14pt}\fontspec{Trebuchet MS Bold}\textcolor{white}{DEPARTEMEN FISIKA} \\
+\fontsize{12pt}{14pt}\fontspec{Trebuchet MS}\textcolor{white}
+{Fakultas Sains dan Analitika Data \\
+Institut Teknologi Sepuluh Nopember \\
+Surabaya \\
+2023}
+}
