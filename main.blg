@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: Contents/1-Pendahuluan.aux
+A level-1 auxiliary file: Contents/2-TinjauanPustaka.aux
+A level-1 auxiliary file: Contents/3-Metodologi.aux
+A level-1 auxiliary file: Contents/6-DaftarPustaka.aux
+The style file: agsm.bst
+Database file #1: Bib/DaftarPustaka.bib
+I was expecting a `,' or a `}'---line 93 of file Bib/DaftarPustaka.bib
+ : @book{Jacobs 
+ :              Russel,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "JacobsRussel"
+Warning--empty publisher in Mickus
+You've used 29 entries,
+            2909 wiz_defined-function locations,
+            803 strings with 8748 characters,
+and the built_in function-call counts, 68009 in all, are:
+= -- 10588
+> -- 949
+< -- 0
++ -- 4768
+- -- 280
+* -- 5338
+:= -- 14710
+add.period$ -- 29
+call.type$ -- 29
+change.case$ -- 378
+chr.to.int$ -- 29
+cite$ -- 30
+duplicate$ -- 463
+empty$ -- 839
+format.name$ -- 382
+if$ -- 12066
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 57
+newline$ -- 90
+num.names$ -- 290
+pop$ -- 243
+preamble$ -- 1
+purify$ -- 435
+quote$ -- 0
+skip$ -- 266
+stack$ -- 0
+substring$ -- 14274
+swap$ -- 29
+text.length$ -- 406
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 60
+warning$ -- 1
+while$ -- 609
+width$ -- 0
+write$ -- 365
+(There was 1 error message)
