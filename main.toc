@@ -1,12 +1,15 @@
 \babel@toc {indonesian}{}\relax 
-\contentsline {chapter}{LEMBAR PENGESAHAN}{i}{Doc-Start}%
-\contentsline {chapter}{\textit {APPROVAL SHEET}}{ii}{Doc-Start}%
-\contentsline {chapter}{PERNYATAAN ORISINALITAS}{iii}{Doc-Start}%
-\contentsline {chapter}{\textit {STATEMENT OF ORIGINALITY}}{iv}{Doc-Start}%
-\contentsline {chapter}{ABSTRAK}{v}{table.caption.1}%
-\contentsline {chapter}{\textit {ABSTRACT}}{vi}{table.caption.2}%
-\contentsline {chapter}{KATA PENGANTAR}{vii}{table.caption.2}%
-\contentsline {chapter}{DAFTAR ISI}{ix}{chapter*.3}%
+\contentsline {chapter}{HALAMAN JUDUL}{i}{Doc-Start}%
+\contentsline {chapter}{LEMBAR PENGESAHAN}{ii}{Doc-Start}%
+\contentsline {chapter}{\textit {APPROVAL SHEET}}{iii}{Doc-Start}%
+\contentsline {chapter}{PERNYATAAN ORISINALITAS}{iv}{Doc-Start}%
+\contentsline {chapter}{\textit {STATEMENT OF ORIGINALITY}}{v}{Doc-Start}%
+\contentsline {chapter}{ABSTRAK}{vi}{table.caption.1}%
+\contentsline {chapter}{\textit {ABSTRACT}}{vii}{table.caption.2}%
+\contentsline {chapter}{KATA PENGANTAR}{viii}{table.caption.2}%
+\contentsline {chapter}{DAFTAR ISI}{x}{chapter*.3}%
+\contentsline {chapter}{DAFTAR GAMBAR}{xi}{chapter*.4}%
+\contentsline {chapter}{DAFTAR TABEL}{xii}{chapter*.5}%
 \contentsline {chapter}{\numberline {1}PENDAHULUAN}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Rumusan Masalah}{2}{section.1.2}%
@@ -39,4 +42,4 @@
 \contentsline {chapter}{\numberline {5}KESIMPULAN}{21}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Kesimpulan}{21}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Saran}{21}{section.5.2}%
-\contentsline {chapter}{DAFTAR PUSTAKA}{23}{chapter*.13}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{23}{chapter*.15}%

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.23)  25 APR 2023 11:12
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.23)  25 APR 2023 13:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -979,32 +979,32 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 (./Contents/5-Kesimpulan.aux) (./Contents/6-DaftarPustaka.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 101.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-01.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 91.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9
+1.
 
 (d:/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1040,12 +1040,12 @@ LaTeX Font Info:    ... okay on input line 101.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 101.
-Package microtype Info: Applying patch `item' on input line 101.
-Package microtype Info: Applying patch `toc' on input line 101.
-Package microtype Info: Applying patch `eqnum' on input line 101.
-Package microtype Info: Applying patch `footnote' on input line 101.
-Package microtype Info: Applying patch `verbatim' on input line 101.
+LaTeX Info: Redefining \microtypecontext on input line 91.
+Package microtype Info: Applying patch `item' on input line 91.
+Package microtype Info: Applying patch `toc' on input line 91.
+Package microtype Info: Applying patch `eqnum' on input line 91.
+Package microtype Info: Applying patch `footnote' on input line 91.
+Package microtype Info: Applying patch `verbatim' on input line 91.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1058,7 +1058,7 @@ ern Roman (RS)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 101.
+Package hyperref Info: Link coloring OFF on input line 91.
 
 (./main.out) (./main.out)
 \@outlinefile=\write4
@@ -1201,47 +1201,10 @@ File: Figs/Lambang ITS.png Graphic file (type bmp)
 
 File: Figs/Lambang ITS.png Graphic file (type bmp)
 <Figs/Lambang ITS.png>
- [3
-
-
-]) (./Lainnya/pengesahan.tex
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: xetex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
-* v-part:(T,H,B)=(85.35826pt, 688.5567pt, 71.13188pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=455.24411pt
-* \textheight=688.5567pt
-* \oddsidemargin=13.08827pt
-* \evensidemargin=-15.36449pt
-* \topmargin=-18.78552pt
-* \headheight=12.0pt
-* \headsep=19.8738pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=88.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
  [1
 
 
-])
-(./Lainnya/pengesahan_en.tex
+]) (./Lainnya/pengesahan.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1277,7 +1240,8 @@ File: Figs/Lambang ITS.png Graphic file (type bmp)
  [2
 
 
-]) (./Lainnya/orisinalitas.tex
+])
+(./Lainnya/pengesahan_en.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1292,6 +1256,42 @@ File: Figs/Lambang ITS.png Graphic file (type bmp)
 * \textheight=688.5567pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=-15.36449pt
+* \topmargin=-18.78552pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ [3
+
+
+]) (./Lainnya/orisinalitas.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 455.24411pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 688.5567pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=688.5567pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=13.08827pt
 * \topmargin=-18.78552pt
 * \headheight=12.0pt
 * \headsep=19.8738pt
@@ -1366,51 +1366,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
-[3
-
-
-]) (./Lainnya/orisinalitas_en.tex
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: xetex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(56.9055pt, 455.24411pt, 85.35826pt)
-* v-part:(T,H,B)=(85.35826pt, 688.5567pt, 71.13188pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=455.24411pt
-* \textheight=688.5567pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=13.08827pt
-* \topmargin=-18.78552pt
-* \headheight=12.0pt
-* \headsep=19.8738pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=88.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-
- []
-
 [4
 
 
-]) (./Abstrak/abstrak.tex
+]) (./Lainnya/orisinalitas_en.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1443,10 +1402,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [5
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+[5
 
 
-]) (./Abstrak/abstrak_en.tex
+]) (./Abstrak/abstrak.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1482,8 +1446,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
  [6
 
 
-])
-(./Lainnya/katapengantar.tex
+]) (./Abstrak/abstrak_en.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1519,7 +1482,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
  [7
 
 
-]) (./Lainnya/daftarisi.tex
+])
+(./Lainnya/katapengantar.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1552,7 +1516,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- (./main.toc [8
+ [8
+
+
+]) (./Lainnya/daftarisi.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 688.5567pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=688.5567pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-18.78552pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (./main.toc [9
 
 
 
@@ -1561,7 +1561,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 \openout5 = `main.toc'.
 
 
-[9])
+[10] (./main.lof)
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+ [11
+
+] (./main.lot)
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+ [12
+
+])
 \openout2 = `Contents/1-Pendahuluan.aux'.
 
  (./Contents/1-Pendahuluan.tex
@@ -1728,15 +1740,15 @@ Package natbib Warning: There were undefined citations.
 (./Contents/3-Metodologi.aux) (./Contents/4-Analisa Data dan Pembahasan.aux)
 (./Contents/5-Kesimpulan.aux) (./Contents/6-DaftarPustaka.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: DC83E4B28F4EA3E4F69898F43683C4D4;5876.
+(rerunfilecheck)             Checksum: D3FABF6C44AB862C30D290325741473C;6209.
  ) 
 Here is how much of TeX's memory you used:
- 31035 strings out of 476660
- 624845 string characters out of 5806780
+ 31047 strings out of 476660
+ 624953 string characters out of 5806780
  1869698 words of memory out of 5000000
- 50632 multiletter control sequences out of 15000+600000
+ 50638 multiletter control sequences out of 15000+600000
  525203 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,15n,117p,1901b,725s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (35 pages).
+Output written on main.pdf (37 pages).

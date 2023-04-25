@@ -1,10 +1,16 @@
 \newpage
 \newgeometry{
-	top=30mm,left=20mm,right=30mm,bottom=25mm
+	top=30mm,right=20mm,left=30mm,bottom=25mm
 }
 \let\cleardoublepage\clearpage
 \singlespacing
 \renewcommand*\contentsname{\hfill DAFTAR ISI \hfill}
 \tableofcontents\addcontentsline{toc}{chapter}{DAFTAR ISI}
+
+\renewcommand*\contentsname{\hfill DAFTAR GAMBAR \hfill}
+\listoffigures\addcontentsline{toc}{chapter}{DAFTAR GAMBAR}
+
+\renewcommand*\contentsname{\hfill DAFTAR TABEL \hfill}
+\listoftables\addcontentsline{toc}{chapter}{DAFTAR TABEL}
 
 \restoregeometry

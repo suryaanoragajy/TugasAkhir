@@ -67,26 +67,16 @@
 
 % Nomor Halaman
 \usepackage{fancyhdr}
-% Sebelum daftar isi
-\fancypagestyle{pages1to11}{
+% Preamble
+\fancypagestyle{preamble}{
 	\fancyhf{} % clear header and footer
 	\fancyfoot[C]{\thepage} % center page number
 }
-
 % Setelah daftar isi
 \fancypagestyle{otherpages}{
 	\fancyhf{} % clear header and footer
 	\fancyfoot[LE,RO]{\thepage} % alternating left and right page number
 }
-
-%----
-%\pagestyle{fancy}
-%\fancyhf{}
-%\fancyfoot[C]{\ifnum\value{page}<12 \thepage
-%	\else\ifodd\value{page}\rlap{\hspace{.75\textwidth}\thepage}
-%	\else\llap{\thepage\hspace{.75\textwidth}}\fi\fi}
-%\fancyfoot[LE,RO]{\thepage}
-% ----
 \renewcommand{\headrulewidth}{0pt}
 % Changing case of text
 \usepackage{textcase}
@@ -96,13 +86,13 @@
 % Dummy text
 \usepackage{lipsum}
 
-\pagestyle{pages1to11}
+\pagestyle{preamble}
 % ========== KONTEN ==========
 \begin{document}
 	\input{Cover/cover_depan.tex}
 	\input{Cover/cover_dalam.tex}
-	\input{Cover/cover_dalam_en.tex}
 	\pagenumbering{roman}
+	\input{Cover/cover_dalam_en.tex}
 	\input{Lainnya/pengesahan.tex}
 	\input{Lainnya/pengesahan_en.tex}
 	\input{Lainnya/orisinalitas.tex}
