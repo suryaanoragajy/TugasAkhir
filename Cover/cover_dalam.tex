@@ -1,56 +1,58 @@
-% Sampul Dalam
+% Cover Dalam
 \newpage
 \thispagestyle{empty}
 \newgeometry{
-  top=30mm,right=30mm,left=20mm,bottom=25mm
+	top=30mm,right=30mm,left=20mm,bottom=25mm
 }
 
 % Kotak Biru
 \begin{tikzpicture}[remember picture,overlay]
-    \fill[white](current page.north west) rectangle ([yshift=-297mm]current page.north east);
-    \fill[biru] (current page.north west) rectangle ([yshift=-50mm]current page.north east);
-    \fill[white](current page.north west) rectangle ([yshift=-42.5mm]current page.north east);
+	\fill[white](current page.north west) rectangle ([yshift=-297mm]current page.north east);
+	\fill[biru] (current page.north west) rectangle ([yshift=-50mm]current page.north east);
+	\fill[white](current page.north west) rectangle ([yshift=-42.5mm]current page.north east);
 \end{tikzpicture}
 
 % Lambang ITS
 \begin{tikzpicture}[remember picture, overlay]
-    \node[anchor=south west, inner sep=0] at (-0.5,0.5) {\includegraphics[scale=0.4,width=2.6cm]{Figs/Lambang ITS.png}};
+	\node[anchor=south west, inner sep=0] at (-0.5,0.3) {\includegraphics[scale=0.4,width=2.6cm]{Figs/Lambang ITS.png}};
 \end{tikzpicture}
 
-% Isi
-\vspace{8ex}
-\fontsize{14pt}{14pt}{\fontfamily{lmss}\selectfont
-{\textbf{TUGAS AKHIR - SF4801}}}\\
+\setlength{\parindent}{0pt}
+\vspace{10ex}
+{\fontspec{Trebuchet MS Bold}{
+		\fontsize{14pt}{14pt}\selectfont {TUGAS AKHIR - SF4801}}
+}
 
-\vspace{11ex}
+\vspace{12ex}
 
 \doublespacing
-\fontsize{18pt}{18pt}{\fontfamily{lmss}\selectfont
-{\textbf{Pemetaan dan Pemodelan Bawah Permukaan Potensi \\ 
-Panas Bumi Berdasarkan Data Landsat 8 dan Metode \\ 
-Gravitasi}}}    
+\begin{large}
+	{\fontspec{Trebuchet MS Bold}{
+			\fontsize{18pt}{16pt}\selectfont \textcolor{black}{Pemetaan dan Pemodelan Bawah Permukaan Potensi Panas Bumi Berdasarkan Data Landsat 8 dan Metode Gravitasi}}
+	}
+\end{large}
 
 \vspace{15ex}
-\fontsize{14pt}{14pt}{\fontfamily{cmss}\selectfont
-{\textbf{Surya Anoraga Justitia Yusman}\\
-NRP 01111940000019}}
+
+{\fontsize{14pt}{14pt}{\fontspec{Trebuchet MS Bold}Surya Anoraga Justitia Yusman}\\
+	\fontsize{14pt}{14pt}{\fontspec{Trebuchet MS}NRP 01111940000019}
+}
 
 \vspace{10ex}
 
-\fontsize{14pt}{14pt}{\fontfamily{cmss}\selectfont
-{Dosen Pembimbing\\
-\textbf{Dr.rer.nat. Eko Minarto}\\
-NIP 19750205 199903 1 004}}
-
+{\fontsize{14pt}{14pt}{\fontspec{Trebuchet MS}Dosen Pembimbing}\\
+	\fontsize{14pt}{14pt}{\fontspec{Trebuchet MS Bold}Dr.rer.nat. Eko Minarto}\\
+	\fontsize{14pt}{14pt}{\fontspec{Trebuchet MS}NIP 19750205 199903 1 004}
+}
 
 \vspace{15ex}
 
 \onehalfspacing
-\fontsize{12pt}{14pt}{\fontfamily{cmss}\selectfont{
-\textbf{DEPARTEMEN FISIKA}\\
-Fakultas Sains dan Analitika Data \\
-Institut Teknologi Sepuluh Nopember \\
-Surabaya \\
-2023}}
-
+{\fontsize{12pt}{14pt}\fontspec{Trebuchet MS Bold}{DEPARTEMEN FISIKA} \\
+	\fontsize{12pt}{14pt}\fontspec{Trebuchet MS}
+	{Fakultas Sains dan Analitika Data \\
+		Institut Teknologi Sepuluh Nopember \\
+		Surabaya \\
+		2023}
+}
 \restoregeometry
