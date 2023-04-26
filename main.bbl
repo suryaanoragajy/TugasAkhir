@@ -10,16 +10,11 @@ Akse, N.  \harvardyearleft 2016\harvardyearright , {\em Kajian Perbandingan
   Kemampuan Citra Satelit 7 dan Citra SRTM untuk Analisis Kelurusan Menggunakan
   Metode Ekstraksi Otomatis}, Universitas Gadjah Mada.
 
-\harvarditem{Aliihsan \harvardand\ Niyazi}{2019}{SekertekinArslan}
-Aliihsan, S. \harvardand\ Niyazi, A.  \harvardyearleft 2019\harvardyearright ,
-  {\em Monitoring thermal anomaly and radiative heat flux using thermal
-  infrared satellite imagery – A case study at Tuzla geothermal region},
-  Elsevier.
-
-\harvarditem{Amizadeh \harvardand\ Dasgupta}{2013}{AmizadehDasgupta}
-Amizadeh \harvardand\ Dasgupta  \harvardyearleft 2013\harvardyearright , {\em
-  Geophysics for Petroleum Engineers In Developments in Petroeum Science},
-  Elsevier.
+\harvarditem{Aminzadeh \harvardand\ (Eds.)}{2013}{AmizadehDasgupta}
+Aminzadeh, F. \harvardand\ (Eds.), S. N.~D.  \harvardyearleft
+  2013\harvardyearright , {\em Geophysics for Petroleum Engineers},
+  Developments in Petroleum Science 60, 1 edn, Elsevier Science.
+\newline\harvardurl{http://gen.lib.rus.ec/book/index.php?md5=2699801d9188205372924a51c68a851d}
 
 \harvarditem{Aqli}{2019}{Rosyiful2019}
 Aqli, R.  \harvardyearleft 2019\harvardyearright , {\em Identifikasi Struktur
@@ -28,14 +23,9 @@ Aqli, R.  \harvardyearleft 2019\harvardyearright , {\em Identifikasi Struktur
   Mojekerto)}, Universitas Islam Negeri Maulana Malik Ibrahim, Malang.
 
 \harvarditem{Avdan \harvardand\ Jovanovska}{2016}{AvdanandJovanovska}
-Avdan \harvardand\ Jovanovska  \harvardyearleft 2016\harvardyearright , {\em
-  Algorithm for Automated Mapping of Land Surface Temperature Using LANDSAT 8
-  Satellite Data}, Hindawi International Journal of Geophysics.
-
-\harvarditem{Ayodeji \harvardand\ Mulemwa}{2017}{Ogunode}
-Ayodeji, O. \harvardand\ Mulemwa, A.  \harvardyearleft 2017\harvardyearright ,
-  {\em An algorithm to retrieve Land Surface Temperature using Landsat-8
-  Dataset}, South African Journal of Geomatics.
+Avdan, U. \harvardand\ Jovanovska, G.  \harvardyearleft 2016\harvardyearright ,
+  `Algorithm for automated mapping of land surface temperature using landsat 8
+  satellite data', {\em Journal of Sensors} {\bf 2016},~1–8.
 
 \harvarditem{{Badan Informasi Geospasial}}{2018}{DEMNAS}
 {Badan Informasi Geospasial}  \harvardyearleft 2018\harvardyearright , {\em
@@ -43,9 +33,9 @@ Ayodeji, O. \harvardand\ Mulemwa, A.  \harvardyearleft 2017\harvardyearright ,
   Nasional(https://tanahair.indonesia.go.id/demnas)}, Badan Informasi
   Geospasial, Jakarta.
 
-\harvarditem{Dickson \harvardand\ Fanelli}{1995}{DicksonFanelli1995}
-Dickson \harvardand\ Fanelli  \harvardyearleft 1995\harvardyearright , {\em
-  Geothermal Energy : Utilization and Technology}, John Wiley Sons, Chichester.
+\harvarditem{Dickson \harvardand\ Fanelli}{2013}{DicksonFanelli1995}
+Dickson, M. \harvardand\ Fanelli, M.  \harvardyearleft 2013\harvardyearright ,
+  {\em Geothermal Energy: Utilization and Technology}, Taylor \& Francis.
 
 \harvarditem{{Ditjen EBTK}}{2017}{PanasBumiIndo2017}
 {Ditjen EBTK}  \harvardyearleft 2017\harvardyearright , {\em Potensi Panas Bumi
@@ -57,17 +47,15 @@ ESDM  \harvardyearleft 2018\harvardyearright , `Ini dia sebaran pembangkit
   (https://www.esdm.go.id/id/media-center/arsip-berita/ini-dia-sebaran-pembangkit-listrik-panas-bumi-di-indonesia)'.
 
 \harvarditem{Gupta \harvardand\ Roy}{2007}{GuptaRoy2007}
-Gupta \harvardand\ Roy  \harvardyearleft 2007\harvardyearright , {\em
-  Geothermal Energy : An Alternative Resource for the 21st Century}, Elsevier
-  Science, Amsterdam.
+Gupta, H. \harvardand\ Roy, S.  \harvardyearleft 2007\harvardyearright , {\em
+  Geothermal Energy: An Alternative Resource for the 21 st Century}.
 
-\harvarditem{Hirt}{2013}{Hirt}
-Hirt  \harvardyearleft 2013\harvardyearright , {\em New ultrahigh-resolution
-  picture of Earth’s gravity field}, Geophysical Research Letters.
-
-\harvarditem{Jose~A. \harvardand\ Juan~C.}{2004}{SobrinoandJimenezMunoz}
-Jose~A., S. \harvardand\ Juan~C., J.-M.  \harvardyearleft 2004\harvardyearright
-  , {\em Land surface temperature retrieval from LANDSAT TM 5}, Elsevier.
+\harvarditem[Hirt et~al.]{Hirt, Claessens, Fecher, Kuhn, Pail \harvardand\
+  Rexer}{2013}{Hirt}
+Hirt, C., Claessens, S., Fecher, T., Kuhn, M., Pail, R. \harvardand\ Rexer, M.
+  \harvardyearleft 2013\harvardyearright , `New ultrahigh-resolution picture of
+  earth's gravity field', {\em Geophysical Research Letters} {\bf
+  40}(16),~4279--4283.
 
 \harvarditem{{Kementerian ESDM}}{2014}{GLamongan}
 {Kementerian ESDM}  \harvardyearleft 2014\harvardyearright , {\em Gunung
@@ -78,26 +66,45 @@ Jose~A., S. \harvardand\ Juan~C., J.-M.  \harvardyearleft 2004\harvardyearright
 Kirbani  \harvardyearleft 2001\harvardyearright , {\em Teori dan Aplikasi
   Metode Gravitasi}, Universitas Gadjah Mada, Yogyakarta.
 
-\harvarditem{Mariita}{2007}{Mariita}
-Mariita  \harvardyearleft 2007\harvardyearright , {\em The Gravity Method},
-  Surface Exploration for Geothermal Reasearch.
+\harvarditem{Mickus}{2004}{Mickus}
+Mickus, K.~L.  \harvardyearleft 2004\harvardyearright , Gravity method :
+  Environmental and engineering applications.
 
-\harvarditem{Mickus}{1980}{Mickus}
-Mickus  \harvardyearleft 1980\harvardyearright , {\em Gravity Method :
-  Enviromental and Engineering Aplications}.
+\harvarditem{Nicholas}{2007}{Mariita}
+Nicholas, M.  \harvardyearleft 2007\harvardyearright , {\em The Gravity
+  Method}, Surface Exploration for Geothermal Reasearch.
 
-\harvarditem{Rouse \harvardand\ Hass}{1974}{RouseHass}
-Rouse \harvardand\ Hass  \harvardyearleft 1974\harvardyearright , {\em
-  Monitoring the Vernal Advancement and Retrogradation (Green Wave Effect) of
-  Natural Vegetation}, Texas A M Univ Coll Station.
+\harvarditem{Ogunode \harvardand\ Akombelwa}{2017}{Ogunode}
+Ogunode, A. \harvardand\ Akombelwa, M.  \harvardyearleft 2017\harvardyearright
+  , `An algorithm to retrieve land surface temperature using landsat-8
+  dataset', {\em South African Journal of Geomatics} {\bf 6},~262.
+
+\harvarditem[Rouse et~al.]{Rouse, Haas, Deering, Schell \harvardand\
+  Harlan}{1973}{RouseHass}
+Rouse, J.~W., Haas, R.~H., Deering, D.~W., Schell, J.~A. \harvardand\ Harlan,
+  J.~C.  \harvardyearleft 1973\harvardyearright , Monitoring the vernal
+  advancement and retrogradation (green wave effect) of natural vegetation.
+  [great plains corridor].
 
 \harvarditem{Sarkowi}{2009}{Sarkowi}
 Sarkowi  \harvardyearleft 2009\harvardyearright , {\em Modul Praktikum Metode
   Gaya Berat}, Universitas Lampung, Lampung.
 
+\harvarditem{Sekertekin \harvardand\ Arslan}{2019}{SekertekinArslan}
+Sekertekin, A. \harvardand\ Arslan, N.  \harvardyearleft 2019\harvardyearright
+  , `Monitoring thermal anomaly and radiative heat flux using thermal infrared
+  satellite imagery – a case study at tuzla geothermal region', {\em
+  Geothermics} {\bf 78},~243--254.
+
 \harvarditem{Sleep \harvardand\ Fujita}{1997}{SleepFujita}
-Sleep \harvardand\ Fujita  \harvardyearleft 1997\harvardyearright , {\em
-  Principle of Geophysics}, Blackwell Science.
+Sleep, N.~H. \harvardand\ Fujita, K.  \harvardyearleft 1997\harvardyearright ,
+  {\em Principle of Geophysics}, Blackwell Science.
+
+\harvarditem[Sobrino et~al.]{Sobrino, Jimenez \harvardand\
+  Paolini}{2004}{SobrinoandJimenezMunoz}
+Sobrino, J., Jimenez, J.-C. \harvardand\ Paolini, L.  \harvardyearleft
+  2004\harvardyearright , `Land surface temperature retrieval from landsat tm
+  5', {\em Remote Sensing of Environment} {\bf 90},~434--440.
 
 \harvarditem{{Suharyati}}{2019}{OutlookEnergi2019}
 {Suharyati}  \harvardyearleft 2019\harvardyearright , {\em Outlook Energi
@@ -106,10 +113,6 @@ Sleep \harvardand\ Fujita  \harvardyearleft 1997\harvardyearright , {\em
 \harvarditem{Suprajitno}{2001}{Munadi}
 Suprajitno, M.  \harvardyearleft 2001\harvardyearright , {\em Instrumentasi
   Geofisika}, Universitas Indonesia, Depok.
-
-\harvarditem{Telford}{1990}{Telford}
-Telford  \harvardyearleft 1990\harvardyearright , {\em Applied Geophysics
-  Second Edition}, Cambridge University, USA.
 
 \harvarditem{USGS}{2018}{USGSDEM2018}
 USGS  \harvardyearleft 2018\harvardyearright , {\em USGS EROS Archive - Digital
@@ -124,6 +127,11 @@ USGS  \harvardyearleft 2019\harvardyearright , {\em Landsat 8 (L8) Data Users
 \harvarditem{USGS}{2022}{USGS2022}
 USGS  \harvardyearleft 2022\harvardyearright , {\em Landsat-Earth Observation
   Satelites}, U.S. Geological Survey, South Dakota.
+
+\harvarditem{W.~M.~Telford}{1990}{Telford}
+W.~M.~Telford, L. P.~Geldart, R. E.~S.  \harvardyearleft 1990\harvardyearright
+  , {\em Applied Geophysics}, 2 edn, Cambridge University Press.
+\newline\harvardurl{http://gen.lib.rus.ec/book/index.php?md5=7097a70654f4e2ec5a8ca3db5fe313f7}
 
 \harvarditem{White}{1973}{White1973}
 White  \harvardyearleft 1973\harvardyearright , {\em Characteristics of

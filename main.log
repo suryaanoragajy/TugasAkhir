@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.23)  25 APR 2023 13:35
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.23)  26 APR 2023 09:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1645,9 +1645,9 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 1603) has occurred while \output is active []
 
  [11]
-Overfull \hbox (4.99591pt too wide) in paragraph at lines 191--192
+Overfull \hbox (3.0399pt too wide) in paragraph at lines 191--192
 \TU/lmr/m/n/12 GGMplus dapat diakses melalui []http://ddfe.curtin.edu.au/gravit
-ymodels/GGMplus/[]([]Hirt[],
+ymodels/GGMplus/[]([]Hirt
  []
 
 [12]
@@ -1716,13 +1716,19 @@ Bab 5.
 \openout2 = `Contents/6-DaftarPustaka.aux'.
 
  (./Contents/6-DaftarPustaka.tex (./main.bbl
-Underfull \hbox (badness 4341) in paragraph at lines 55--58
+Overfull \hbox (4.3359pt too wide) in paragraph at lines 14--18
+\TU/lmr/bx/n/12 URL: \TU/lmr/m/it/12 http://gen.lib.rus.ec/book/index.php?md5=2
+699801d9188205372924a51c68a851d 
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 45--48
 []\TU/lmr/m/n/12 ESDM (2018), ‘Ini dia sebaran pembangkit listrik panas bumi di
  indonesia
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--58
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
 \TU/lmr/m/n/12 (https://www.esdm.go.id/id/media-center/arsip-berita/ini-dia-seb
 aran-pembangkit-
  []
